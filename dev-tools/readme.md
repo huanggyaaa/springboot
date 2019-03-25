@@ -18,4 +18,3 @@
     </configuration>
 </plugin>
 ```
-![avatar](F:\123.png)
